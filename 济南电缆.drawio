@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T01:33:19.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="rbdr_hqE5zHpBUTZTQqj" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T01:34:41.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="S88WNJKCJtWU8m6W4Uxi" version="20.6.0" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="OY6VnxNnnldXPEKkeLlU-29" value="危险点名称" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-29" value="危险点名称" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="210" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-33" value="&lt;br&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
@@ -12,15 +12,15 @@
             <mxPoint x="-70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OY6VnxNnnldXPEKkeLlU-40" value="危险点上报时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-40" value="危险点上报时间" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="210" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-41" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
-          <mxGeometry x="490" y="210" width="150" height="30" as="geometry">
+          <mxGeometry x="509" y="210" width="150" height="30" as="geometry">
             <mxPoint x="-70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OY6VnxNnnldXPEKkeLlU-42" value="电缆通道名称" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-42" value="电缆通道名称" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="210" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-43" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
             <mxPoint x="-70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OY6VnxNnnldXPEKkeLlU-44" value="工井" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-44" value="工井" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="300" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-45" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
@@ -37,10 +37,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-46" value="同沟线路" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="310" width="110" height="30" as="geometry" />
+          <mxGeometry x="110" y="480" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-47" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
-          <mxGeometry x="490" y="310" width="150" height="30" as="geometry">
+          <mxGeometry x="210" y="480" width="360" height="150" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-48" value="可视化负责人(班组)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-49" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="150" height="30" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-50" value="&lt;font color=&quot;#ff0000&quot;&gt;*&lt;/font&gt;负责人电话(班组)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-51" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="800" y="300" width="150" height="30" as="geometry">
             <mxPoint x="-70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
