@@ -1,62 +1,281 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T01:34:41.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="S88WNJKCJtWU8m6W4Uxi" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T01:47:24.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="TcwLUOHflleHxBg591GH" version="20.6.0" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="OY6VnxNnnldXPEKkeLlU-29" value="危险点名称" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="210" width="110" height="30" as="geometry" />
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-56" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="190" width="180" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="OY6VnxNnnldXPEKkeLlU-33" value="&lt;br&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
-          <mxGeometry x="200" y="210" width="150" height="30" as="geometry">
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-44" value="工井" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-56">
+          <mxGeometry y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-45" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-56">
+          <mxGeometry x="100" y="110" width="150" height="30" as="geometry">
             <mxPoint x="-70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OY6VnxNnnldXPEKkeLlU-40" value="危险点上报时间" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="210" width="110" height="30" as="geometry" />
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-57" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="390" y="190" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="OY6VnxNnnldXPEKkeLlU-41" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
-          <mxGeometry x="509" y="210" width="150" height="30" as="geometry">
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-48" value="可视化负责人(班组)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-57">
+          <mxGeometry y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-49" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-57">
+          <mxGeometry x="120" y="110" width="150" height="30" as="geometry">
             <mxPoint x="-70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OY6VnxNnnldXPEKkeLlU-42" value="电缆通道名称" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="210" width="110" height="30" as="geometry" />
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-58" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440" y="290" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="OY6VnxNnnldXPEKkeLlU-43" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
-          <mxGeometry x="780" y="210" width="150" height="30" as="geometry">
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-54" value="&lt;font color=&quot;#ff0000&quot;&gt;*&lt;/font&gt;负责人电话(班组)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-58">
+          <mxGeometry y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-55" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-58">
+          <mxGeometry x="120" y="110" width="150" height="30" as="geometry">
             <mxPoint x="-70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OY6VnxNnnldXPEKkeLlU-44" value="工井" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="300" width="110" height="30" as="geometry" />
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="680" y="190" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="OY6VnxNnnldXPEKkeLlU-45" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
-          <mxGeometry x="200" y="300" width="150" height="30" as="geometry">
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-50" value="&lt;font color=&quot;#ff0000&quot;&gt;*&lt;/font&gt;负责人电话(班组)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-59">
+          <mxGeometry y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-51" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-59">
+          <mxGeometry x="120" y="110" width="150" height="30" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-60" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="680" y="100" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-42" value="电缆通道名称" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-60">
+          <mxGeometry y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-43" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-60">
+          <mxGeometry x="100" y="110" width="150" height="30" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-61" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="390" y="100" width="199" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-40" value="危险点上报时间" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-61">
+          <mxGeometry y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-41" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-61">
+          <mxGeometry x="119" y="110" width="150" height="30" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-62" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="100" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-29" value="危险点名称" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-62">
+          <mxGeometry y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-33" value="&lt;br&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-62">
+          <mxGeometry x="100" y="110" width="150" height="30" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-63" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="280" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-52" value="&lt;font color=&quot;#ff0000&quot;&gt;*&lt;/font&gt;可视化现场安装人员(厂家)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-63">
+          <mxGeometry y="110" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-53" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-63">
+          <mxGeometry x="160" y="110" width="150" height="30" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-64" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="670" y="1010" width="300" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-65" value="安装信息" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-64">
+          <mxGeometry y="110" width="62.5625" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-66" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-64">
+          <mxGeometry x="68.25" y="110" width="231.75" height="100" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-69" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="390" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-70" value="&lt;font color=&quot;#ff0000&quot;&gt;*&lt;/font&gt;计划现场勘察时间" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-69">
+          <mxGeometry x="-10" y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-71" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-69">
+          <mxGeometry x="120" y="110" width="150" height="30" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-72" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440" y="400" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-73" value="实际现场勘察时间" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-72">
+          <mxGeometry y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-74" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-72">
+          <mxGeometry x="120" y="110" width="150" height="30" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-77" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="560" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-75" value="监拍方向" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-77">
+          <mxGeometry x="-10" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-76" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-77">
+          <mxGeometry x="110" y="80" width="150" height="30" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-78" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="560" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-79" value="安装位置GPS坐标" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-78">
+          <mxGeometry x="-10" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-80" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-78">
+          <mxGeometry x="110" y="80" width="150" height="30" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-82" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="770" y="450" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-83" value="安装方式" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-82">
+          <mxGeometry x="-10" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-84" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-82">
+          <mxGeometry x="110" y="80" width="150" height="30" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-85" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="700" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-86" value="设备编号" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-85">
+          <mxGeometry x="-10" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-87" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-85">
+          <mxGeometry x="110" y="80" width="150" height="30" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-92" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="780" y="737" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-93" value="&lt;font color=&quot;#cc0000&quot;&gt;实际安装时间&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-92">
+          <mxGeometry x="-10" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-94" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-92">
+          <mxGeometry x="110" y="80" width="150" height="30" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-95" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440" y="710" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-96" value="计划安装时间" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-95">
+          <mxGeometry x="-10" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-97" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-95">
+          <mxGeometry x="110" y="80" width="150" height="30" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-98" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="800" y="600" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-99" value="编号" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-98">
+          <mxGeometry x="-10" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-100" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-98">
+          <mxGeometry x="110" y="80" width="150" height="30" as="geometry">
             <mxPoint x="-70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-46" value="同沟线路" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="480" width="110" height="30" as="geometry" />
+          <mxGeometry x="100" y="1230" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-47" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
-          <mxGeometry x="210" y="480" width="360" height="150" as="geometry">
+          <mxGeometry x="200" y="1230" width="360" height="150" as="geometry">
             <mxPoint x="-70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OY6VnxNnnldXPEKkeLlU-48" value="可视化负责人(班组)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="300" width="110" height="30" as="geometry" />
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-101" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="830" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="OY6VnxNnnldXPEKkeLlU-49" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
-          <mxGeometry x="510" y="300" width="150" height="30" as="geometry">
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-102" value="计划上线时间" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-101">
+          <mxGeometry x="-10" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-103" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-101">
+          <mxGeometry x="110" y="80" width="150" height="30" as="geometry">
             <mxPoint x="-70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OY6VnxNnnldXPEKkeLlU-50" value="&lt;font color=&quot;#ff0000&quot;&gt;*&lt;/font&gt;负责人电话(班组)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="300" width="110" height="30" as="geometry" />
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-104" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="430" y="860" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="OY6VnxNnnldXPEKkeLlU-51" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
-          <mxGeometry x="800" y="300" width="150" height="30" as="geometry">
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-105" value="&lt;font color=&quot;#cc0000&quot;&gt;实际上线时间&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-104">
+          <mxGeometry x="-10" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-106" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-104">
+          <mxGeometry x="110" y="80" width="150" height="30" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-107" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="780" y="877" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-112" value="" style="group" vertex="1" connectable="0" parent="OY6VnxNnnldXPEKkeLlU-107">
+          <mxGeometry x="-10" y="80" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-108" value="班组安装负责人是否认可" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-112">
+          <mxGeometry width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-111" value="认可" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.switch;strokeColor=#ADB6BD;strokeWidth=1;fillColor=#ffffff;fontColor=#212529;onStrokeColor=#ffffff;onFillColor=#0085FC;align=left;verticalAlign=middle;spacingLeft=10;labelPosition=right;verticalLabelPosition=middle;buttonState=0;sketch=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-112">
+          <mxGeometry x="150" y="3" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-113" value="&lt;font color=&quot;#cc0000&quot;&gt;班组认可人&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="950" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-114" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="950" width="150" height="30" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-115" value="&lt;font color=&quot;#cc0000&quot;&gt;不认可原因&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="950" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-116" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="950" width="150" height="30" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-117" value="&lt;font color=&quot;#cc0000&quot;&gt;是否退运&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1070" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-118" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1070" width="150" height="30" as="geometry">
+            <mxPoint x="-70" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-121" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="670" y="1200" width="310" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-119" value="&lt;font color=&quot;#cc0000&quot;&gt;退运信息&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-121">
+          <mxGeometry y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OY6VnxNnnldXPEKkeLlU-120" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-121">
+          <mxGeometry x="100" y="110" width="210" height="100" as="geometry">
             <mxPoint x="-70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
