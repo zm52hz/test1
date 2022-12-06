@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T02:18:54.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="F3-jB1AmcxMykh4DMmYY" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T02:20:03.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="CXKqVDREsp6s9jWt2Bg0" version="20.6.0" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1778" dy="2746.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-107" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="780" y="877" width="200" height="140" as="geometry" />
+          <mxGeometry x="770" y="720" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-112" value="" style="group" vertex="1" connectable="0" parent="OY6VnxNnnldXPEKkeLlU-107">
           <mxGeometry x="-680" y="13" width="170" height="30" as="geometry" />
@@ -50,31 +50,31 @@
           <mxGeometry width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-113" value="&lt;font color=&quot;#cc0000&quot;&gt;班组认可人&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="890" width="110" height="30" as="geometry" />
+          <mxGeometry x="380" y="733" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-114" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
-          <mxGeometry x="510" y="890" width="150" height="30" as="geometry">
+          <mxGeometry x="500" y="733" width="150" height="30" as="geometry">
             <mxPoint x="-70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-115" value="&lt;font color=&quot;#cc0000&quot;&gt;不认可原因&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="890" width="110" height="30" as="geometry" />
+          <mxGeometry x="690" y="733" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-116" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
-          <mxGeometry x="820" y="890" width="150" height="30" as="geometry">
+          <mxGeometry x="810" y="733" width="150" height="30" as="geometry">
             <mxPoint x="-70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-117" value="&lt;font color=&quot;#cc0000&quot;&gt;是否退运&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1010" width="110" height="30" as="geometry" />
+          <mxGeometry x="90" y="853" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-118" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1010" width="150" height="30" as="geometry">
+          <mxGeometry x="190" y="853" width="150" height="30" as="geometry">
             <mxPoint x="-70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-111" value="认可" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.switch;strokeColor=#ADB6BD;strokeWidth=1;fillColor=#ffffff;fontColor=#212529;onStrokeColor=#ffffff;onFillColor=#0085FC;align=left;verticalAlign=middle;spacingLeft=10;labelPosition=right;verticalLabelPosition=middle;buttonState=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="900" width="20" height="10" as="geometry" />
+          <mxGeometry x="260" y="743" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-73" value="实际现场勘察时间" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="510" width="110" height="30" as="geometry" />
@@ -120,10 +120,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-119" value="&lt;font color=&quot;#cc0000&quot;&gt;退运信息&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1010" width="110" height="30" as="geometry" />
+          <mxGeometry x="380" y="853" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-120" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
-          <mxGeometry x="458.25" y="1010" width="561.75" height="70" as="geometry">
+          <mxGeometry x="448.25" y="853" width="561.75" height="70" as="geometry">
             <mxPoint x="-70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -174,7 +174,7 @@
           <mxGeometry x="-20" y="110" width="142.83582089552237" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-47" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="OY6VnxNnnldXPEKkeLlU-134">
-          <mxGeometry x="142.83582089552237" y="110" width="727.1641791044774" height="80" as="geometry">
+          <mxGeometry x="110" y="110" width="750" height="80" as="geometry">
             <mxPoint x="-70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
