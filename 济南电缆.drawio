@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T02:22:18.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="NVgN2r5lU9-Sg4s3U1j9" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T02:22:40.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="5qcymmONvR8l1Nr4EWYy" version="20.6.0" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1778" dy="2746.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -66,18 +66,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-75" value="监拍方向" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="640" width="110" height="30" as="geometry" />
+          <mxGeometry x="670" y="650" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-76" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
-          <mxGeometry x="880" y="640" width="150" height="30" as="geometry">
+          <mxGeometry x="790" y="650" width="150" height="30" as="geometry">
             <mxPoint x="-70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-79" value="安装位置GPS坐标" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="640" width="110" height="30" as="geometry" />
+          <mxGeometry x="360" y="650" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OY6VnxNnnldXPEKkeLlU-80" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
-          <mxGeometry x="530" y="640" width="150" height="30" as="geometry">
+          <mxGeometry x="480" y="650" width="150" height="30" as="geometry">
             <mxPoint x="-70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
