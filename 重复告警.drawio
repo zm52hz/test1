@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T10:31:55.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="p1a6CN9QLDSGMPreKuUU" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-14T10:35:15.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="u5Xmp-s7vpx6W4NrUWOn" version="20.6.0" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="判断是否是重复告警">
     <mxGraphModel dx="785" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,6 +47,9 @@
         <mxCell id="t94MjRIox98RmUPoLqmg-3" value="根据监拍点获取最后一张预警信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="230" width="210" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="t94MjRIox98RmUPoLqmg-9" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t94MjRIox98RmUPoLqmg-4" target="t94MjRIox98RmUPoLqmg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t94MjRIox98RmUPoLqmg-4" value="判断是否是每天的第一张告警图" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="360" width="271" height="80" as="geometry" />
         </mxCell>
@@ -55,6 +58,9 @@
             <mxPoint x="280" y="330" as="sourcePoint" />
             <mxPoint x="330" y="280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="t94MjRIox98RmUPoLqmg-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
